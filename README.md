@@ -2,7 +2,7 @@
 # STEP to test this API
 1.  Download my todolist_authentication.sql file and import to your database
 
-2. DownLoad my project and open with interlij , Eclipse ,etc.
+2. Download my project and open with interlij , Eclipse ,etc.
 
 3. Run project with java application
   
