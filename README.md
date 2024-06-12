@@ -8,3 +8,5 @@
   
 4. Access to To-Do List API Document with this path 
    http://localhost:8080/swagger-ui/index.html
+
+5. then You can use test my API on swagger-ui or test on Postman program by reading Document in swagger-ui
