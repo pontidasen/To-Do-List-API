@@ -1,4 +1,6 @@
 # To-Do-List-API
+A RESTful To Do List API using Java Spring Boot, featuring secure user authentication, CRUD operations, and MySQL database integration with JPA (Hibernate). Ensured exception handling and input validation, and documented the API with Swagger for easy integration and testing
+
 # STEP to test this API
 1.  Download my todolist_authentication.sql file and import to your database
 
